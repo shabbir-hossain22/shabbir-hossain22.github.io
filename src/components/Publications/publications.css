@@ -1,0 +1,28 @@
+.box{
+    margin:15px;
+    margin-top: 50px;
+    /* box-shadow: 10px 10px 20px rgba(244,241,241,1) ; */
+    border-radius:6px;
+    /* animation-name: text;
+    animation-duration: 7s;
+    animation-timing-function: ease-out; */
+}
+
+.head{
+    display: inline-block;
+    padding:0px 12px;
+    color: rgb(85, 85, 85);
+    margin-bottom: 15px;
+    margin-left:30px;
+    letter-spacing: 5px;
+    font-size: 16px!important;
+}
+
+hr {
+    width: 30%;
+    height: 2px!important;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 28px;
+    color: #ff8c00;
+}
