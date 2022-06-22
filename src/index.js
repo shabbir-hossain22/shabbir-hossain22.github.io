@@ -9,7 +9,7 @@ import Gallery from './components/gallery/gallery';
 ReactDOM.render( <BrowserRouter> <Routes>
     <Route path = '/gallery' element = {<Gallery />}>            
     </Route>
-    <Route exact path = '/' element = {  <App />   }>            
+    <Route path = '/shabbir_portfolio' element = {  <App />   }>            
     </Route>
 </Routes>  
     

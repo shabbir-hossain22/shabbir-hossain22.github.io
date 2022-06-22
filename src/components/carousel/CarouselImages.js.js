@@ -33,7 +33,7 @@ class CarouselImages extends Component {
         return (
             <div className={classes.carousel_container} id="greeting">
                 {/* <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible ={true}> */}
-                <Carousel className={classes.carousel} dynamicHeight infiniteLoop={true} interval={6000} useKeyboardArrows={true} transitionTime={1700} emulateTouch showArrows={false} autoPlay showStatus={false} showThumbs={false} >
+                <Carousel className={classes.carousel} dynamicHeight infiniteLoop={true} interval={3000} useKeyboardArrows={true} transitionTime={1000} emulateTouch showArrows={false} autoPlay showStatus={false} showThumbs={false} >
                     <div className={classes.image_container} >
                         {/* <img className={classes.image} src={Hello} alt="myImage" /> */}
 
